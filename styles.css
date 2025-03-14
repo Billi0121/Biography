@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(255, 255, 255);
+    max-width: 750px;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+img{
+    border-radius: 50px;
+    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+
+
+
+
+
+.hobbi {
+    background-color: rgb(240, 220, 220);
+    border-radius: 20px;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.social {
+    background-color: rgb(205, 223, 223);
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.social ul {
+    padding: 0px;
+    list-style: none;
+}
+
+
+a:hover{
+    color: red;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.experience{
+    background-color: rgb(248, 229, 225);
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.table_bio{
+    display: flex;
+}
+
+.contact h2{
+    text-align: center;
+    justify-content: space-between;
+}
